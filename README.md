@@ -23,7 +23,7 @@ The SOC Automtion Lab project aimed to enhance the efficiency and effectiveness 
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
 
-<img src="https://drive.google.com/file/d/13Bp0BdRnWkVNZoJPUfMNQMIQFw4XroYz/view?usp=drive_link" width=350px height=250px> 
+<img src="https://imgur.com/K9DTYv4"> 
 
 Every screenshot should have some text explaining what the screenshot is about.
 
